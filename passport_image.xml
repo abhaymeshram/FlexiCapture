@@ -1,0 +1,1 @@
+<ImageProcessingProfiles><Profile><Name>PASSPORT</Name><Operations><Operation Type="Descew" DescewByText="true" DescewByLines="false" DescewBySquares="false"/><Operation Type="Despeckle" GarbageSize="-1"/></Operations></Profile></ImageProcessingProfiles>
