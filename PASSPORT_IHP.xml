@@ -1,0 +1,1 @@
+<ImageProcessingProfiles><Profile><Name>PASSPORT2</Name><Operations><Operation Type="ChangeResolution" NewResolution="300"/><Operation Type="Descew" DescewByText="true" DescewByLines="false" DescewBySquares="false"/><Operation Type="RemoveGeometricalDistortions"/></Operations></Profile></ImageProcessingProfiles>
