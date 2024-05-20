@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Batch>
+	<Priority>Normal</Priority>
+	<Name>Batch_Name</Name>
+	<TypeName>WPS_MOBILE</TypeName>
+	<RegistrationParams>
+		<Parameter Name="BatchInformationSampleMetadata">value#1</Parameter>
+	</RegistrationParams>
+	<Documents>
+		<Document Index="0">
+			<Name>1</Name>
+			<Images>
+				<Image Index="0" SourceFile="WPS_PHONE_DESCRIPTIONFILE_SAMPLE.pdf" SourceFilePageIndex="0" SourcePath="123">WPS_PHONE_DESCRIPTIONFILE_SAMPLE.pdf</Image>
+			</Images>
+			<RegistrationParams>
+                <Parameter Name="accountHolderName">AHMAD NAWAZ IMTIAZ AHMAD</Parameter>
+                <Parameter Name="accountNumber">0153259540019</Parameter>
+                <Parameter Name="employeeQatarId">29258608732</Parameter>
+                <Parameter Name="oldMobileNumber">31433541</Parameter>
+                <Parameter Name="reference_id">lCJEetErZxWJgrwuGosXCueUCaqCxdbSfZyrATJTPzgvFwilsU</Parameter>
+                <Parameter Name="url_callback">http://172.31.12.60:8002/api/retail/customer/ocr/result</Parameter>
+			</RegistrationParams>
+		</Document>
+	</Documents>
+</Batch>
+

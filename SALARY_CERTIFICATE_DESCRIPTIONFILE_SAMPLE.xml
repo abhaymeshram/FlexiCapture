@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Batch>
+	<Priority>Normal</Priority>
+	<Name>Batch_Name</Name>
+	<TypeName>SALARY_CERTIFICATE</TypeName>
+	<RegistrationParams>
+		<Parameter Name="BatchInformationSampleMetadata">value#1</Parameter>
+	</RegistrationParams>
+	<Documents>
+		<Document Index="0">
+			<Name>1</Name>
+			<Images>
+				<Image Index="0" SourceFile="SALARY_CERTIFICATE_DESCRIPTIONFILE_SAMPLE.pdf" SourceFilePageIndex="0" SourcePath="123">SALARY_CERTIFICATE_DESCRIPTIONFILE_SAMPLE.pdf</Image>
+			</Images>
+			<RegistrationParams>
+                <Parameter Name="QIDNumber">29978800370</Parameter>
+                <Parameter Name="MonthlySalary">8500</Parameter>
+                <Parameter Name="reference_id">lCJEetErZxWJgrwuGosXCueUCaqCxdbSfZyrATJTPzgvFwilsU</Parameter>
+                <Parameter Name="url_callback">http://172.31.12.60:8002/api/retail/customer/ocr/result</Parameter>
+			</RegistrationParams>
+		</Document>
+	</Documents>
+</Batch>
+
